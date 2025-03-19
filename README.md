@@ -1,2 +1,3 @@
-# Blinkit-Data-Analysis-Dashboard
-I developed a Power BI dashboard for Blinkit to analyze sales, outlet performance, and product insights. The project involved data cleaning, transformation using Power Query, and DAX for calculated metrics. Key KPIs like total sales, average sales, and item counts are visualized with interactive filters for insights.
+#Blinkit-Sales-Analysis (Interactive Dashboard Creation using Power BI
+##Project Objective
+The Blinkit team aims to analyze their sales performance for improved decision-making. This dashboard provides insights into total sales, outlet performance, and product trends, enabling Blinkit's management to understand customer behavior and boost sales in upcoming years.
