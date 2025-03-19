@@ -26,3 +26,8 @@ The Blinkit team aims to analyze their sales performance for improved decision-m
 - Create pivot tables based on the required KPI questions for analysis.
 - Merge all pivot tables into a single dashboard for a structured view.
 - Apply slicers to make the dashboard dynamic and enable interactive filtering.
+
+## Dashboard
+
+![Dashboard_Image png](https://github.com/user-attachments/assets/ece74a21-b228-4c48-80c5-095ba6f2f814)
+
