@@ -16,3 +16,13 @@ The Blinkit team aims to analyze their sales performance for improved decision-m
 - Which outlet type has the highest number of items sold?
 - What percentage of total sales come from regular vs. low-fat items?
 - What is the percentage contribution of different outlet sizes to total sales?
+
+
+-  Dashboard Interaction <a href="https://github.com/Tarunraj0899/Blinkit-Data-Analysis-Dashboard/blob/main/Dashboard_Image.png.jpeg">View Dashboard</a>
+
+## Process
+Verify data for any missing values and anomalies, and sort them out.
+Ensure data consistency and cleanliness by standardizing data types, formats, and values.
+Create pivot tables based on the required KPI questions for analysis.
+Merge all pivot tables into a single dashboard for a structured view.
+Apply slicers to make the dashboard dynamic and enable interactive filtering.
