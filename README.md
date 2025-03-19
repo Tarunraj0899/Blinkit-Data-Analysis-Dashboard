@@ -31,3 +31,14 @@ The Blinkit team aims to analyze their sales performance for improved decision-m
 
 ![Dashboard_Image png](https://github.com/user-attachments/assets/ece74a21-b228-4c48-80c5-095ba6f2f814)
 
+
+## Project Insight
+- Tier 3 outlets contribute the highest sales (~47%), followed by Tier 2 and Tier 1 locations.
+- Medium and high-sized outlets generate the most revenue, with small outlets contributing the least.
+- Supermarkets, especially Type 2, drive maximum sales, indicating customer preference for larger retail formats.
+- The highest-selling item categories include fruits, snacks, and beverages, accounting for a major share of sales.
+- More than 70% of total sales come from regular fat products, compared to low-fat alternatives.
+- The majority of transactions have an average rating of 3.9, showing moderate customer satisfaction.
+
+## Final Conclusion
+To further enhance Blinkit’s sales, a data-driven marketing strategy should target high-performing Tier 3 and Tier 2 locations, focusing on supermarkets and high-sized outlets. Given the preference for fruits, snacks, and beverages, promotions, discounts, and personalized offers should be designed around these categories. Additionally, improving customer experience and boosting store ratings above 4.0 could significantly impact customer retention and sales growth. Implementing dynamic pricing and targeted ads for high-selling product categories will maximize revenue potential.
